@@ -23,7 +23,7 @@ Inserta aquí la imagen de tu diagrama.
 
 Ejemplo:
 
-![Diagrama](docs/diagrama.png)
+![Diagrama](diagrama.png)
 
 ## Levantar la Base de Datos
 
